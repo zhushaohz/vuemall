@@ -15,6 +15,12 @@
   },
   "dependencies": {
     "@zeit-ui/vue": "^2.3.4",
+    "@zeit-ui/vue-icons": "^3.0.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "pug": "^2.0.4",
+    "pug-html-loader": "^1.1.5",
+    "pug-plain-loader": "^1.0.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },

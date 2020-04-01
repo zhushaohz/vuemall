@@ -3,9 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/js/bootstrap.js'
 import ZeitUI from '@zeit-ui/vue'
 import '@zeit-ui/vue/dist/zeit-ui.css' // require style
-
+import { install } from '@zeit-ui/vue-icons'
+install(Vue)
 Vue.use(ZeitUI)
 Vue.config.productionTip = false
 
