@@ -1,7 +1,7 @@
 # my-project
 
 > A Vue.js project
-
+学习用vue建一个网上商城网站
 ## Build Setup
 
 ``` bash
