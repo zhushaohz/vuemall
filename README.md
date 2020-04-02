@@ -1,7 +1,9 @@
 # my-project
 
-> A Vue.js project
+> A Vue.js project 
+ 
 学习用vue建一个网上商城网站
+感觉我个头做个网站没必要前后端分离，这几天学习vue差不多了，项目终止吧
 ## Build Setup
 
 ``` bash
